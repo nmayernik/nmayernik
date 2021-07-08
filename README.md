@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Nick 👋
+
+I'm a UX Researcher and Designer.
 
 <!--
 **nmayernik/nmayernik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
